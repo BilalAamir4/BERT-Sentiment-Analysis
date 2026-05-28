@@ -1,0 +1,12 @@
+venv/
+results/
+logs/
+saved_model/
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+
+*.pt
+*.bin
+.env
