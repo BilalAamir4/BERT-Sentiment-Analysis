@@ -45,7 +45,8 @@
 Evaluated on 25,000 IMDB test samples. Equal performance across both classes (negative/positive) confirms no class bias.
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+<img width="800" height="600" alt="confusion_matrix" src="https://github.com/user-attachments/assets/812b34c0-1a55-4fce-9618-8993ca6daec5" />
+
 
 ## ✨ Features
 - Real-time sentiment prediction with confidence score
@@ -54,7 +55,4 @@ Evaluated on 25,000 IMDB test samples. Equal performance across both classes (ne
 - Example inputs to try instantly
 
 ## 📸 Screenshot
-*(Add screenshot here)*
-
-## 🔗 Connect
-GitHub: [BilalAamir4](https://github.com/BilalAamir4)
+<img width="1902" height="998" alt="screenshot" src="https://github.com/user-attachments/assets/fd4c3d5b-e22a-4c9a-b318-701d081b3a36" />
