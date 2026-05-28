@@ -7,6 +7,7 @@
 - Dataset: IMDB Movie Reviews (HuggingFace datasets)
 - Task: Binary Sentiment Classification (Positive / Negative)
 - Fine-tuned for 3 epochs using HuggingFace Trainer API
+- Training time: ~18 minutes (GPU)
 
 ## 🛠️ Tech Stack
 - Python, PyTorch, HuggingFace Transformers
@@ -42,6 +43,9 @@
 | Recall | 0.89 |
 
 Evaluated on 25,000 IMDB test samples. Equal performance across both classes (negative/positive) confirms no class bias.
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
 
 ## ✨ Features
 - Real-time sentiment prediction with confidence score
